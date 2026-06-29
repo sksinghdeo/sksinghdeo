@@ -1,43 +1,64 @@
+<div align="center">
+
 # Shashank Singh Deo
 
-Robotics & EV Systems Engineer focused on mechatronics, embedded sensing, vehicle integration, battery systems, harnessing, thermal packaging, testing, and validation.
+### Robotics & EV Systems Engineer  
+Mechatronics · Embedded Sensing · Battery Systems · Harnessing · Thermal Systems · Testing & Validation
 
-I like building hardware that works outside the lab — sensors, robots, EV subsystems, validation tools, and clean technical documentation that helps teams move from prototype to production.
+📍 Tempe, AZ · M.S. Robotics & Autonomous Systems, Arizona State University
 
-## Featured work
+</div>
 
-### Oar-Mounted Rowing Sensor System
-Attachable BLE/IMU sensing system for on-water rowing technique analysis.  
-Built a sealed oar-mounted hardware enclosure, embedded sensor stack, Python logging/visualization GUI, and stroke segmentation pipeline.
+---
 
-**Skills:** IMU sensing, BLE, Python, signal processing, enclosure design, field testing
+## About
 
-### Assistive Follower Robot
-ROS2-based follower robot using TurtleBot4, OAK-D camera, LiDAR, and shoe/person tracking for assistive navigation.
+I am a robotics and EV systems engineer with 4 years of experience taking vehicle hardware from prototype builds toward production support. My work spans battery integration, LV/HV harnessing, BMS interfaces, thermal packaging, validation planning, and hands-on troubleshooting across real vehicle platforms.
 
-**Skills:** ROS2, perception, embedded robotics, Python, LiDAR, camera-based tracking
+I am especially interested in roles at the intersection of **mechanical design, embedded sensing, robotics hardware, vehicle integration, and validation**.
 
-### SyncStride Wearable Cueing System
-Wearable vibrotactile/acoustic cueing concept for gait support and personalized calibration.
+---
 
-**Skills:** wearable systems, sensing, haptics, embedded prototyping, user-centered design
+## Featured Projects
 
-### EV Systems & Integration Portfolio
-Sanitized engineering portfolio from EV truck development covering battery integration, LV/HV harnessing, BMS interfaces, thermal packaging, validation planning, build documentation, and prototype-to-production troubleshooting.
+| Project | What it shows | Skills |
+|---|---|---|
+| **Oar-Mounted Rowing Sensor System** | BLE/IMU sensing system for on-water rowing technique analysis with sealed hardware, Python GUI, and stroke segmentation | IMU, BLE, Python, signal processing, enclosure design, field testing |
+| **Assistive Follower Robot** | ROS 2-based follower robot using TurtleBot4, OAK-D camera, LiDAR, and vision-based tracking | ROS 2, robotics, perception, Python, LiDAR, OAK-D |
+| **SyncStride Wearable Cueing System** | Wearable vibrotactile/acoustic cueing prototype for gait support and personalized calibration | Wearables, embedded systems, haptics, sensing, mechatronics |
+| **EV Systems & Integration Portfolio** | Sanitized EV truck engineering portfolio covering battery, harness, BMS, thermal, validation, and production support work | EV systems, harnessing, battery packaging, CAD/CAE, validation |
 
-**Skills:** EV systems, harness design, battery packaging, validation, FMEA/HARA, CAD/CAE, vehicle integration
+---
 
-## Technical areas
+## Technical Areas
 
-- Robotics: ROS2, TurtleBot4, OAK-D, LiDAR, Python
-- Embedded & sensing: IMU, BLE, sensor logging, signal processing
-- EV systems: battery integration, LV/HV harnessing, BMS interfaces, thermal systems
-- Mechanical/mechatronics: CAD, packaging, enclosure design, testing, validation
-- Tools: Python, MATLAB/Simulink, CATIA V5, Creo, SolidWorks, ANSYS, Linux
+**Robotics & Perception**  
+ROS 2 · TurtleBot4 · OAK-D · LiDAR · Python · camera-based tracking
 
-## What I am looking for
+**Embedded & Sensing**  
+IMU · BLE · sensor logging · signal processing · embedded prototyping
+
+**EV Systems**  
+Battery integration · LV/HV harnessing · BMS interfaces · thermal systems · validation planning
+
+**Mechanical / Mechatronics**  
+CAD packaging · enclosure design · prototype builds · testing · troubleshooting
+
+**Tools**  
+Python · MATLAB/Simulink · CATIA V5 · Creo · SolidWorks · ANSYS · Linux
+
+---
+
+## Currently Open To
 
 Mechanical, Mechatronics, Robotics, Electromechanical, Automotive, EV Systems, Battery Integration, Harness, Thermal, and Validation Engineering roles.
 
-📍 Tempe, AZ  
 Open to onsite, hybrid, relocation, and hands-on engineering roles.
+
+---
+
+<div align="center">
+
+[LinkedIn](YOUR_LINKEDIN_LINK) · [Portfolio / Contact](https://sksinghdeo.github.io/contact/) · [Email](mailto:ssinghde@asu.edu)
+
+</div>
