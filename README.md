@@ -23,10 +23,10 @@ I am especially interested in roles at the intersection of **mechanical design, 
 
 | Project | What it shows | Skills |
 |---|---|---|
-| **Oar-Mounted Rowing Sensor System** | BLE/IMU sensing system for on-water rowing technique analysis with sealed hardware, Python GUI, and stroke segmentation | IMU, BLE, Python, signal processing, enclosure design, field testing |
-| **Assistive Follower Robot** | ROS 2-based follower robot using TurtleBot4, OAK-D camera, LiDAR, and vision-based tracking | ROS 2, robotics, perception, Python, LiDAR, OAK-D |
-| **SyncStride Wearable Cueing System** | Wearable vibrotactile/acoustic cueing prototype for gait support and personalized calibration | Wearables, embedded systems, haptics, sensing, mechatronics |
-| **EV Systems & Integration Portfolio** | Sanitized EV truck engineering portfolio covering battery, harness, BMS, thermal, validation, and production support work | EV systems, harnessing, battery packaging, CAD/CAE, validation |
+| **[Oar-Mounted Rowing Sensor System](https://github.com/sksinghdeo/oar-mounted-rowing-sensor)** | BLE/IMU sensing system for on-water rowing technique analysis, with sealed hardware, Python GUI, and stroke segmentation | IMU, BLE, Python, signal processing, enclosure design, field testing |
+| **[Assistive Follower Robot](https://github.com/sksinghdeo/assistive-follower-robot)** | ROS 2 follower robot using TurtleBot4, OAK-D, LiDAR, and vision-based tracking | ROS 2, robotics, perception, Python, LiDAR, OAK-D |
+| **[SyncStride Wearable Cueing System](https://github.com/sksinghdeo/syncstride-wearable-cueing)** | Wearable vibrotactile/acoustic cueing prototype for gait support and personalized calibration | Wearables, embedded systems, haptics, sensing, mechatronics |
+| **[EV Systems & Integration Portfolio](https://github.com/sksinghdeo/ev-systems-integration-portfolio)** | Sanitized EV truck engineering portfolio covering battery, harness, BMS, thermal, validation, and production support work | EV systems, harnessing, battery packaging, CAD/CAE, validation |
 
 ---
 
@@ -49,7 +49,7 @@ Python · MATLAB/Simulink · CATIA V5 · Creo · SolidWorks · ANSYS · Linux
 
 ---
 
-## Currently Open To
+## Engineering Focus
 
 Mechanical, Mechatronics, Robotics, Electromechanical, Automotive, EV Systems, Battery Integration, Harness, Thermal, and Validation Engineering roles.
 
