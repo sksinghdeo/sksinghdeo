@@ -59,6 +59,6 @@ Open to onsite, hybrid, relocation, and hands-on engineering roles.
 
 <div align="center">
 
-[LinkedIn](YOUR_LINKEDIN_LINK) · [Portfolio / Contact](https://sksinghdeo.github.io/contact/) · [Email](mailto:ssinghde@asu.edu)
+[LinkedIn](https://www.linkedin.com/in/shashanksinghdeo/) · [Portfolio / Contact](https://sksinghdeo.github.io/contact/)
 
 </div>
