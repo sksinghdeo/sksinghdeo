@@ -27,8 +27,7 @@ I am especially interested in roles at the intersection of **mechanical design, 
 | **[Assistive Follower Robot](https://github.com/sksinghdeo/assistive-follower-robot)** | ROS 2 follower robot using TurtleBot4, OAK-D, LiDAR, and vision-based tracking | ROS 2, robotics, perception, Python, LiDAR, OAK-D |
 | **[SyncStride Wearable Cueing System](https://github.com/sksinghdeo/syncstride-wearable-cueing)** | Wearable vibrotactile/acoustic cueing prototype for gait support and personalized calibration | Wearables, embedded systems, haptics, sensing, mechatronics |
 | **[EV Systems & Integration Portfolio](https://github.com/sksinghdeo/ev-systems-integration-portfolio)** | Sanitized EV truck engineering portfolio covering battery, harness, BMS, thermal, validation, and production support work | EV systems, harnessing, battery packaging, CAD/CAE, validation |
-
----
+| **[Macro Butler](https://github.com/sksinghdeo/macro-app)** | Mobile-first nutrition tracking web app with meal logging, macro calculations, barcode/OCR support, and PWA setup | HTML, CSS, JavaScript, PWA, OCR, barcode scanning, UI design |
 
 ## Technical Areas
 
