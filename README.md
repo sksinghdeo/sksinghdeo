@@ -21,8 +21,6 @@ I am especially interested in roles at the intersection of **mechanical design, 
 
 ## Featured Projects
 
-## Featured Projects
-
 | Project | What it shows | Skills |
 |---|---|---|
 | **[Oar-Mounted Rowing Sensor System](https://github.com/sksinghdeo/oar-mounted-rowing-sensor)** | BLE/IMU sensing system for on-water rowing technique analysis, with sealed hardware, Python dashboard, stroke detection, and field testing | IMU, BLE, Python, signal processing, enclosure design, field testing |
