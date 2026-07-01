@@ -26,7 +26,7 @@ I am especially interested in roles at the intersection of **mechanical design, 
 | **[Oar-Mounted Rowing Sensor System](https://github.com/sksinghdeo/oar-mounted-rowing-sensor)** | BLE/IMU sensing system for on-water rowing technique analysis, with sealed hardware, Python dashboard, stroke detection, and field testing | IMU, BLE, Python, signal processing, enclosure design, field testing |
 | **[Assistive Follower Robot](https://github.com/sksinghdeo/assistive-follower-robot)** | ROS 2 follower robot using TurtleBot4, OAK-D shoe localization, PyTorch vision, and LiDAR gap navigation | ROS 2, TurtleBot4, OAK-D, LiDAR, PyTorch, computer vision |
 | **[Patents & Engineering Portfolio](https://github.com/sksinghdeo/patents-engineering-portfolio)** | Public patent/design portfolio and sanitized EV engineering case studies covering battery systems, LV/HV harnessing, thermal management, vehicle structures, and validation | EV systems, patents, battery packaging, harnessing, thermal, structures, validation |
-| **[Macro Butler](https://github.com/sksinghdeo/macro-app)** | Mobile-first nutrition tracking web app with meal logging, macro calculations, barcode/OCR support, and PWA setup | HTML, CSS, JavaScript, PWA, OCR, barcode scanning, UI design |
+| **[Macro Butler](https://github.com/sksinghdeo/macro-app)** | Mobile-first nutrition tracking PWA with meal logging, barcode lookup, OCR label scanning, goals, analytics, backup/restore, and offline support | JavaScript, PWA, OCR, barcode scanning, local storage, mobile UI, nutrition tracking |
 
 ## Technical Areas
 
