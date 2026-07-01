@@ -9,7 +9,6 @@ Mechatronics · Embedded Sensing · Battery Systems · Harnessing · Thermal Sys
 
 [LinkedIn](https://www.linkedin.com/in/shashanksinghdeo/) · [Portfolio / Contact](https://sksinghdeo.github.io/contact/)
 
-</div>
 
 </div>
 
