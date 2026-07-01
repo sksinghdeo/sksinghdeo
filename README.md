@@ -21,12 +21,13 @@ I am especially interested in roles at the intersection of **mechanical design, 
 
 ## Featured Projects
 
+## Featured Projects
+
 | Project | What it shows | Skills |
 |---|---|---|
-| **[Oar-Mounted Rowing Sensor System](https://github.com/sksinghdeo/oar-mounted-rowing-sensor)** | BLE/IMU sensing system for on-water rowing technique analysis, with sealed hardware, Python GUI, and stroke segmentation | IMU, BLE, Python, signal processing, enclosure design, field testing |
-| **[Assistive Follower Robot](https://github.com/sksinghdeo/assistive-follower-robot)** | ROS 2 follower robot using TurtleBot4, OAK-D, LiDAR, and vision-based tracking | ROS 2, robotics, perception, Python, LiDAR, OAK-D |
-| **[SyncStride Wearable Cueing System](https://github.com/sksinghdeo/syncstride-wearable-cueing)** | Wearable vibrotactile/acoustic cueing prototype for gait support and personalized calibration | Wearables, embedded systems, haptics, sensing, mechatronics |
-| **[EV Systems & Integration Portfolio](https://github.com/sksinghdeo/ev-systems-integration-portfolio)** | Sanitized EV truck engineering portfolio covering battery, harness, BMS, thermal, validation, and production support work | EV systems, harnessing, battery packaging, CAD/CAE, validation |
+| **[Oar-Mounted Rowing Sensor System](https://github.com/sksinghdeo/oar-mounted-rowing-sensor)** | BLE/IMU sensing system for on-water rowing technique analysis, with sealed hardware, Python dashboard, stroke detection, and field testing | IMU, BLE, Python, signal processing, enclosure design, field testing |
+| **[Assistive Follower Robot](https://github.com/sksinghdeo/assistive-follower-robot)** | ROS 2 follower robot using TurtleBot4, OAK-D shoe localization, PyTorch vision, and LiDAR gap navigation | ROS 2, TurtleBot4, OAK-D, LiDAR, PyTorch, computer vision |
+| **[Patents & Engineering Portfolio](https://github.com/sksinghdeo/patents-engineering-portfolio)** | Public patent/design portfolio and sanitized EV engineering case studies covering battery systems, LV/HV harnessing, thermal management, vehicle structures, and validation | EV systems, patents, battery packaging, harnessing, thermal, structures, validation |
 | **[Macro Butler](https://github.com/sksinghdeo/macro-app)** | Mobile-first nutrition tracking web app with meal logging, macro calculations, barcode/OCR support, and PWA setup | HTML, CSS, JavaScript, PWA, OCR, barcode scanning, UI design |
 
 ## Technical Areas
