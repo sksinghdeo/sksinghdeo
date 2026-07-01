@@ -7,7 +7,7 @@ Mechatronics · Embedded Sensing · Battery Systems · Harnessing · Thermal Sys
 
 📍 Tempe, AZ · M.S. Robotics & Autonomous Systems, Arizona State University
 
-[LinkedIn](https://www.linkedin.com/in/shashanksinghdeo/) · [Portfolio / Contact](https://sksinghdeo.github.io/contact/) · [Macro Butler](https://sksinghdeo.github.io/macro-app/)
+[LinkedIn](https://www.linkedin.com/in/shashanksinghdeo/) · [Portfolio / Contact](https://sksinghdeo.github.io/contact/)
 
 </div>
 
